@@ -1,0 +1,56 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+    
+
+}
+
+
+.navbarList{
+    list-style: none;
+    display: flex;
+
+}
+
+.navbarList a{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar li{
+    padding: 0px 5px;
+    margin-right: 10px;
+}
+
+
+.navbarList a li img{
+    width: 20px;
+    
+}
+
+.cartShop{
+    position: relative;
+}
+
+.qty{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(180, 54, 31);
+    color: #fff;
+    border-radius: 50%;
+    position: absolute;
+    right: 0;
+    top: -10px;
+    display: flex;
+    justify-content: center;
+}
+
+.exit button{
+    border: none;
+    background-color: transparent;
+    color:rgb(180, 54, 31) ;
+
+}

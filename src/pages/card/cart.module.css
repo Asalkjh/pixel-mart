@@ -1,0 +1,27 @@
+
+.cartTitle{
+    width: 100%;
+    height: 60px;
+    box-shadow: 2px 3px 3px #ccc;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 10px;
+    background-color: rgb(107, 85, 23);
+    border-radius: 30px;
+
+}
+
+.cartTitle h3{
+    color:#dad1c2;
+
+}
+
+.nameProduct{
+    width: 48%;
+}
+
+.price{
+    width: 52%;
+}

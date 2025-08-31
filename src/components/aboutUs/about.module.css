@@ -1,0 +1,12 @@
+
+.about{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about h2{
+    margin-bottom: 0;
+
+}

@@ -1,0 +1,13 @@
+
+
+
+.store{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+.store a{
+    width: 23%;
+}

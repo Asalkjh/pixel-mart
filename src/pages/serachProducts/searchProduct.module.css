@@ -1,0 +1,31 @@
+input{
+display: block;
+
+}
+
+
+.input input{
+    margin: auto;
+    padding: 10px 80px;
+    border-radius: 30px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    
+}
+
+.search{
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.search a{
+    width: 23%;
+}
+
+.notFoundProduct{
+    margin: auto;
+}
+
